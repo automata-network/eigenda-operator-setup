@@ -1,7 +1,7 @@
 {
   "name": "Automata",
   "website": "https://ata.network",
-  "description": "An EigenDA operator hosted by Automata",
+  "description": "Passionate about extending machine trust to Ethereum and the entire Web3 stack. We're building a modular attestation layer with our novel Proof of Machinehood approach, allowing anyone to verify hardware attestations on-chain.",
   "logo": "https://raw.githubusercontent.com/automata-network/eigenda-operator-setup/dev/ata-logo.png",
   "twitter": "https://twitter.com/automatanetwork"
 }
